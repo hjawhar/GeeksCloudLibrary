@@ -13,11 +13,9 @@ namespace GeeksCloudLibrary
         /**
          * Example of the implementation
          */
-        private static IResourceManager _resourceManager;
-
         public static async Task Main(string[] args)
         {
-            _resourceManager = new IGSResourceManager(CloudProvider.Igs);
+            IResourceManager _resourceManager = new IGSResourceManager(CloudProvider.Igs);
 
             await _resourceManager.CreateInfrastructure("UAT");
             await _resourceManager.CreateResourceAsync("UAT", new VirtualMachineConfig()
