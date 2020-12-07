@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/GeeksCloudLibrary.IGSProvider.csproj": {}
+  },
+  "projects": {
+    "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/GeeksCloudLibrary.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/GeeksCloudLibrary.Abstractions.csproj",
+        "projectName": "GeeksCloudLibrary.Abstractions",
+        "projectPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/GeeksCloudLibrary.Abstractions.csproj",
+        "packagesPath": "/Users/hassanjawhar/.nuget/packages/",
+        "outputPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hassanjawhar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Helpers/GeeksCloudLibrary.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Helpers/GeeksCloudLibrary.Helpers.csproj",
+        "projectName": "GeeksCloudLibrary.Helpers",
+        "projectPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Helpers/GeeksCloudLibrary.Helpers.csproj",
+        "packagesPath": "/Users/hassanjawhar/.nuget/packages/",
+        "outputPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Helpers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hassanjawhar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/GeeksCloudLibrary.Abstractions.csproj": {
+                "projectPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/GeeksCloudLibrary.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/GeeksCloudLibrary.IGSProvider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/GeeksCloudLibrary.IGSProvider.csproj",
+        "projectName": "GeeksCloudLibrary.IGSProvider",
+        "projectPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/GeeksCloudLibrary.IGSProvider.csproj",
+        "packagesPath": "/Users/hassanjawhar/.nuget/packages/",
+        "outputPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hassanjawhar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/GeeksCloudLibrary.Abstractions.csproj": {
+                "projectPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/GeeksCloudLibrary.Abstractions.csproj"
+              },
+              "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Helpers/GeeksCloudLibrary.Helpers.csproj": {
+                "projectPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Helpers/GeeksCloudLibrary.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

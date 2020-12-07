@@ -1,0 +1,9 @@
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/bin/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.deps.json
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/bin/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.dll
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/bin/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.pdb
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/obj/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.csprojAssemblyReference.cache
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/obj/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.AssemblyInfoInputs.cache
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/obj/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.AssemblyInfo.cs
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/obj/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.csproj.CoreCompileInputs.cache
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/obj/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.dll
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.Abstractions/obj/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.pdb

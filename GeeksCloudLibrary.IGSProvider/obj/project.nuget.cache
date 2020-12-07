@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cRaNr4gC3ILB1bIXEDXD5SZaGEoWMbxQONwYjtJr9XhMCk5vL8ofs/qbPc/lW7D1YteQbQVa2ppeI8/3fnOeA==",
+  "success": true,
+  "projectFilePath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/GeeksCloudLibrary.IGSProvider.csproj",
+  "expectedPackageFiles": [
+    "/Users/hassanjawhar/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

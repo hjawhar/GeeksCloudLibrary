@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeeksCloudLibrary", "GeeksCloudLibrary\GeeksCloudLibrary.csproj", "{252E0725-CABC-46CB-B25D-3432874463E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeeksCloudLibrary.Abstractions", "GeeksCloudLibrary.Abstractions\GeeksCloudLibrary.Abstractions.csproj", "{172A4F99-0529-46D2-B122-4015E0AEF86F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeeksCloudLibrary.Helpers", "GeeksCloudLibrary.Helpers\GeeksCloudLibrary.Helpers.csproj", "{CC96CA76-DABD-4776-8FFF-5B41C90BFD17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeeksCloudLibrary.IGSProvider", "GeeksCloudLibrary.IGSProvider\GeeksCloudLibrary.IGSProvider.csproj", "{77D5E57D-01EB-4BB1-8F8A-C9B6BB54F5DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252E0725-CABC-46CB-B25D-3432874463E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252E0725-CABC-46CB-B25D-3432874463E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252E0725-CABC-46CB-B25D-3432874463E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252E0725-CABC-46CB-B25D-3432874463E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172A4F99-0529-46D2-B122-4015E0AEF86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172A4F99-0529-46D2-B122-4015E0AEF86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172A4F99-0529-46D2-B122-4015E0AEF86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172A4F99-0529-46D2-B122-4015E0AEF86F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC96CA76-DABD-4776-8FFF-5B41C90BFD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC96CA76-DABD-4776-8FFF-5B41C90BFD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC96CA76-DABD-4776-8FFF-5B41C90BFD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC96CA76-DABD-4776-8FFF-5B41C90BFD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D5E57D-01EB-4BB1-8F8A-C9B6BB54F5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D5E57D-01EB-4BB1-8F8A-C9B6BB54F5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D5E57D-01EB-4BB1-8F8A-C9B6BB54F5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D5E57D-01EB-4BB1-8F8A-C9B6BB54F5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

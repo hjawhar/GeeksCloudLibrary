@@ -1,0 +1,14 @@
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/bin/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.deps.json
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/bin/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.dll
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/bin/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.pdb
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/bin/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.dll
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/bin/Debug/netstandard2.1/GeeksCloudLibrary.Helpers.dll
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/bin/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.pdb
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/bin/Debug/netstandard2.1/GeeksCloudLibrary.Helpers.pdb
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.csprojAssemblyReference.cache
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.AssemblyInfoInputs.cache
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.AssemblyInfo.cs
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.csproj.CoreCompileInputs.cache
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.csproj.CopyComplete
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.dll
+/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.pdb
