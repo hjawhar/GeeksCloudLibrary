@@ -4,13 +4,50 @@
     <projectFile>GeeksCloudLibrary.ConsoleApp/GeeksCloudLibrary.ConsoleApp.csproj</projectFile>
     <projectFile>ConsoleApplication1/ConsoleApplication1.csproj</projectFile>
     <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
+    <projectFile>GeeksCloudLibrary/GeeksCloudLibrary.csproj</projectFile>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c258cf-d6f1-4b70-ac58-684265189d8b" name="Default Changelist" comment="" />
+    <list default="true" id="43c258cf-d6f1-4b70-ac58-684265189d8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GeeksCloudLibrary/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GeeksCloudLibrary/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GeeksCloudLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GeeksCloudLibrary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary.Abstractions/obj/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary.Abstractions/obj/Debug/netstandard2.1/GeeksCloudLibrary.Abstractions.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary.Helpers/obj/Debug/netstandard2.1/GeeksCloudLibrary.Helpers.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary.Helpers/obj/Debug/netstandard2.1/GeeksCloudLibrary.Helpers.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary.IGSProvider/obj/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary.IGSProvider/obj/Debug/netstandard2.1/GeeksCloudLibrary.IGSProvider.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary/GeeksCloudLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary/GeeksCloudLibrary.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary/obj/Debug/netstandard2.1/GeeksCloudLibrary.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary/obj/Debug/netstandard2.1/GeeksCloudLibrary.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary/obj/GeeksCloudLibrary.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary/obj/GeeksCloudLibrary.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary/obj/GeeksCloudLibrary.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary/obj/GeeksCloudLibrary.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary/obj/GeeksCloudLibrary.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary/obj/GeeksCloudLibrary.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeeksCloudLibrary/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GeeksCloudLibrary/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../GeeksCloudLibrary2/GeeksCloudLibrary.IGSProvider/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -33,12 +70,14 @@
         <option value="$PROJECT_DIR$/GeeksCloudLibrary.ConsoleApp/Program.cs" />
         <option value="$PROJECT_DIR$/GeeksCloudLibrary.IGSProvider/IGSDatabaseManager.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
-        <option value="$PROJECT_DIR$/GeeksCloudLibrary/Program.cs" />
         <option value="$PROJECT_DIR$/GeeksCloudLibrary.IGSProvider/IGSResourceManager.cs" />
+        <option value="$PROJECT_DIR$/GeeksCloudLibrary/Program.cs" />
+        <option value="$PROJECT_DIR$/GeeksCloudLibrary/App.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1lLRh2jxvwRdottM6MCPrh4tN0M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +87,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="GeeksCloudLibrary" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GeeksCloudLibrary.ConsoleApp/GeeksCloudLibrary.ConsoleApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,15 +115,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607374501755</updated>
-      <workItem from="1607374505360" duration="4139000" />
+      <workItem from="1607374505360" duration="4901000" />
+      <workItem from="1607413462359" duration="581000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -77,22 +148,22 @@
       <screen x="0" y="23" width="1792" height="1043" />
     </state>
     <state x="654" y="411" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/-1920.-70.1920.1057/0.23.1792.1043@0.23.1792.1043" timestamp="1607377075727" />
-    <state width="1750" height="285" key="GridCell.Tab.0.bottom" timestamp="1607377560390">
+    <state width="1750" height="285" key="GridCell.Tab.0.bottom" timestamp="1607382467705">
       <screen x="0" y="23" width="1792" height="1043" />
     </state>
-    <state width="1750" height="285" key="GridCell.Tab.0.bottom/-1920.-70.1920.1057/0.23.1792.1043@0.23.1792.1043" timestamp="1607377560390" />
-    <state width="1750" height="285" key="GridCell.Tab.0.center" timestamp="1607377560389">
+    <state width="1750" height="285" key="GridCell.Tab.0.bottom/-1920.-70.1920.1057/0.23.1792.1043@0.23.1792.1043" timestamp="1607382467705" />
+    <state width="1750" height="285" key="GridCell.Tab.0.center" timestamp="1607382467704">
       <screen x="0" y="23" width="1792" height="1043" />
     </state>
-    <state width="1750" height="285" key="GridCell.Tab.0.center/-1920.-70.1920.1057/0.23.1792.1043@0.23.1792.1043" timestamp="1607377560389" />
-    <state width="1750" height="285" key="GridCell.Tab.0.left" timestamp="1607377560389">
+    <state width="1750" height="285" key="GridCell.Tab.0.center/-1920.-70.1920.1057/0.23.1792.1043@0.23.1792.1043" timestamp="1607382467704" />
+    <state width="1750" height="285" key="GridCell.Tab.0.left" timestamp="1607382467704">
       <screen x="0" y="23" width="1792" height="1043" />
     </state>
-    <state width="1750" height="285" key="GridCell.Tab.0.left/-1920.-70.1920.1057/0.23.1792.1043@0.23.1792.1043" timestamp="1607377560389" />
-    <state width="1750" height="285" key="GridCell.Tab.0.right" timestamp="1607377560390">
+    <state width="1750" height="285" key="GridCell.Tab.0.left/-1920.-70.1920.1057/0.23.1792.1043@0.23.1792.1043" timestamp="1607382467704" />
+    <state width="1750" height="285" key="GridCell.Tab.0.right" timestamp="1607382467705">
       <screen x="0" y="23" width="1792" height="1043" />
     </state>
-    <state width="1750" height="285" key="GridCell.Tab.0.right/-1920.-70.1920.1057/0.23.1792.1043@0.23.1792.1043" timestamp="1607377560390" />
+    <state width="1750" height="285" key="GridCell.Tab.0.right/-1920.-70.1920.1057/0.23.1792.1043@0.23.1792.1043" timestamp="1607382467705" />
     <state x="419" y="491" key="Rider.ProjectTemplateDialog.Size" timestamp="1607377778054">
       <screen x="0" y="23" width="1792" height="1043" />
     </state>

@@ -6,7 +6,7 @@ using GeeksCloudLibrary.Abstractions.Models.Databases;
 using GeeksCloudLibrary.Abstractions.Models.VirtualMachines;
 using GeeksCloudLibrary.IGSProvider;
 
-namespace GeeksCloudLibrary
+namespace GeeksCloudLibrary.ConsoleApp
 {
     public class Program
     {

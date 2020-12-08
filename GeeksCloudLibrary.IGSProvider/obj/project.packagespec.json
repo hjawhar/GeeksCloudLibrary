@@ -6,6 +6,9 @@
     "projectPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/GeeksCloudLibrary.IGSProvider.csproj",
     "outputPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netstandard2.1"
     ],

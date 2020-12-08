@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeeksCloudLibrary", "GeeksCloudLibrary\GeeksCloudLibrary.csproj", "{252E0725-CABC-46CB-B25D-3432874463E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeeksCloudLibrary.ConsoleApp", "GeeksCloudLibrary.ConsoleApp\GeeksCloudLibrary.ConsoleApp.csproj", "{252E0725-CABC-46CB-B25D-3432874463E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeeksCloudLibrary.Abstractions", "GeeksCloudLibrary.Abstractions\GeeksCloudLibrary.Abstractions.csproj", "{172A4F99-0529-46D2-B122-4015E0AEF86F}"
 EndProject

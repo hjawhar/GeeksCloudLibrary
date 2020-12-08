@@ -87,7 +87,8 @@
     ]
   },
   "packageFolders": {
-    "/Users/hassanjawhar/.nuget/packages/": {}
+    "/Users/hassanjawhar/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -98,6 +99,9 @@
       "packagesPath": "/Users/hassanjawhar/.nuget/packages/",
       "outputPath": "/Users/hassanjawhar/RiderProjects/GeeksCloudLibrary/GeeksCloudLibrary.IGSProvider/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/hassanjawhar/.nuget/NuGet/NuGet.Config"
       ],
